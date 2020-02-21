@@ -1,0 +1,2 @@
+# Javascript-excercises
+Codecademy  exercises 
